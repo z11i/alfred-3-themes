@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#424242FF",
+        "font" : "System Light",
+        "color" : "#BDBDBDFF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#212121FF",
+        "font" : "System Light",
+        "color" : "#D4E157FF"
+      },
+      "backgroundSelected" : "#D5DF48DE",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#212121FF",
+        "font" : "System",
+        "color" : "#EEEEEEFF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 2,
+      "iconSize" : 42
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#40525A00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#212121FF",
+        "font" : "System",
+        "color" : "#D5DF48FF"
+      },
+      "backgroundSelected" : "#CDDC39FF"
+    },
+    "window" : {
+      "color" : "#324148BB",
+      "paddingHorizontal" : 0,
+      "width" : 560,
+      "borderPadding" : 10,
+      "borderColor" : "#26323800",
+      "blur" : 35,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "karobotd",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#D4E157FF",
+      "thickness" : 4
+    },
+    "name" : "Material"
+  }
+}
