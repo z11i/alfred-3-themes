@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#D5D8DFFF",
+        "font" : "System Light",
+        "color" : "#757575FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#212121FF",
+        "font" : "System Light",
+        "color" : "#5C6BC0FF"
+      },
+      "backgroundSelected" : "#5C6BC0FF",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#EDEDEDFF",
+        "font" : "System Light",
+        "color" : "#9E9E9EFF"
+      },
+      "iconPaddingHorizontal" : 9,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#40523F00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 33,
+        "colorSelected" : "#EDEDEDFF",
+        "font" : "System Light",
+        "color" : "#5C6BC0FF"
+      },
+      "backgroundSelected" : "#5C6BC0FF"
+    },
+    "window" : {
+      "color" : "#263238FF",
+      "paddingHorizontal" : 0,
+      "width" : 512,
+      "borderPadding" : 10,
+      "borderColor" : "#26323800",
+      "blur" : 35,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "zhongwei-z",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 3
+    },
+    "scrollbar" : {
+      "color" : "#5C6BC0FF",
+      "thickness" : 3
+    },
+    "name" : "Indigo-400"
+  }
+}

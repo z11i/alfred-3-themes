@@ -1,5 +1,12 @@
-# Alfred-Material-Theme
-An Alfred 3 theme inspired by Material Design
+# zhongwei's Alfred Themes
+## Lime-500
+[Download](https://github.com/zhongwei-z/Alfred-Themes/raw/master/Lime-500/Lime-500.alfredappearance)
+![Preview](https://github.com/zhongwei-z/Alfred-Themes/blob/master/Lime-500/preview.jpg)
 
-[Download](https://github.com/zhongwei-z/Alfred-Material-Theme/raw/master/Material.alfredappearance)
-![Preview](https://github.com/zhongwei-z/Alfred-Material-Theme/blob/master/preview.jpg)
+## Indigo-400
+[Download](https://github.com/zhongwei-z/Alfred-Themes/raw/master/Indigo-400/Indigo-400.alfredappearance)
+![Preview](https://github.com/zhongwei-z/Alfred-Themes/blob/master/Indigo-400/preview.jpg)
+
+## RWBY
+[Download](https://github.com/zhongwei-z/Alfred-Themes/raw/master/RWBY/Lime-500.alfredappearance)
+![Preview](https://github.com/zhongwei-z/Alfred-Themes/blob/master/RWBY/preview.jpg)

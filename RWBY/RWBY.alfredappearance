@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#DDE8EDFF",
+        "font" : "Avenir Next",
+        "color" : "#79868CFF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#6C0023FF",
+        "font" : "Avenir Next",
+        "color" : "#1F172000"
+      },
+      "backgroundSelected" : "#681B2CFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#F4FAFDFF",
+        "font" : "Avenir Next",
+        "color" : "#ABB4BAFF"
+      },
+      "iconPaddingHorizontal" : 9,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#681B2C00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#EDEDEDFF",
+        "font" : "Avenir Next",
+        "color" : "#F3FBFDFF"
+      },
+      "backgroundSelected" : "#6C0023FF"
+    },
+    "window" : {
+      "color" : "#1E1520B6",
+      "paddingHorizontal" : 0,
+      "width" : 476,
+      "borderPadding" : 10,
+      "borderColor" : "#26323800",
+      "blur" : 35,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "zhongwei-z",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#6C0023FF",
+      "thickness" : 7
+    },
+    "name" : "RWBY"
+  }
+}
