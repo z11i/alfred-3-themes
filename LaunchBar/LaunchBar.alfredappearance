@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FEFFFF7F",
+        "font" : "System Light",
+        "color" : "#495159CC"
+      },
+      "shortcut" : {
+        "size" : 10,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System Light",
+        "color" : "#495159CC"
+      },
+      "backgroundSelected" : "#248DFDFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System Light",
+        "color" : "#495159FF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 5,
+      "iconSize" : 28
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FCFFFB00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#FDFFFEFF",
+        "font" : "System",
+        "color" : "#495159FF"
+      },
+      "backgroundSelected" : "#248DFDFF"
+    },
+    "window" : {
+      "color" : "#FEFFFEEE",
+      "paddingHorizontal" : 4,
+      "width" : 500,
+      "borderPadding" : 0,
+      "borderColor" : "#839CBFFF",
+      "blur" : 40,
+      "roundness" : 10,
+      "paddingVertical" : 4
+    },
+    "credit" : "zhongwei-z",
+    "separator" : {
+      "color" : "#00000017",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#4951597F",
+      "thickness" : 2
+    },
+    "name" : "LaunchBar"
+  }
+}
