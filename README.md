@@ -1,4 +1,7 @@
-# zhongwei-z's Alfred Themes
+# zhongwei-z's Alfred 3 Themes
+
+[Alfred 3](https://www.alfredapp.com/) is a productivity utility on macOS. To use themes powerpack needs to be acquired.
+
 ## LaunchBar
 [Download](LaunchBar/LaunchBar.alfredappearance)
 ![Preview](LaunchBar/preview.jpg)
