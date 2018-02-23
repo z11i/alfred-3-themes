@@ -1,4 +1,4 @@
-# zhongwei's Alfred Themes
+# zhongwei-z's Alfred Themes
 ## LaunchBar
 [Download](LaunchBar/LaunchBar.alfredappearance)
 ![Preview](LaunchBar/preview.jpg)
